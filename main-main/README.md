@@ -1,7 +1,7 @@
 # main
-cattoware main repository for loading
+nexoware
 
 # script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Cattoware/main/main/loader.lua"))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://github.com/SkazZza/nexoware-skid/tree/main/main-main/games" .. game.GameId .. ".lua"))()"))()
 ```
